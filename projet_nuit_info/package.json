@@ -1,0 +1,19 @@
+{
+  "name": "projet_nuit_info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "snowpack dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "snowpack": "^2.17.1"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.3.2"
+  }
+}
